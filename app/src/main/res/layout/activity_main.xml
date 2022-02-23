@@ -32,7 +32,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="bottom|center"
-        android:background="@color/cNama"
+        android:textColor="@color/cNama"
         android:padding="10dp"
         android:text="@string/nama"
         android:textSize="18sp" />
