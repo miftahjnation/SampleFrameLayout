@@ -1,4 +1,5 @@
 # SampleFrameLayout
 Activity Sample Fram Layout
 
-![Final running application FrameLayout](https://user-images.githubusercontent.com/62986167/155329998-fe2e9787-f88b-4c6b-b961-b23b4381412e.png)
+
+![Final running application FrameLayout](https://user-images.githubusercontent.com/62986167/155330881-1e0cdda5-50aa-459f-8c0a-533ac5c812d3.png)
