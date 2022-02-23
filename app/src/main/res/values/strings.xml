@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">SampleFrameLayout</string>
+    <string name="app_name">Sample Frame Layout</string>
+    <string name="nim">20180140101</string>
+    <string name="nama">M Miftah Jailani Nasution | C </string>
 </resources>
